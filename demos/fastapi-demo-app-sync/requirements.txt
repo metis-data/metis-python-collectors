@@ -1,0 +1,14 @@
+../../fastapi_package/dist/fastapialchemycollector-0.1.18.tar.gz
+fastapi
+fastapi-sqlalchemy
+greenlet
+jinja2
+psycopg2
+psycopg2-binary
+pydantic
+python-dotenv
+python-multipart
+requests
+sqlalchemy
+uvicorn[standard]
+python-dotenv

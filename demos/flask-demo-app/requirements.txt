@@ -1,0 +1,5 @@
+flask
+flask_sqlalchemy
+psycopg2
+requests
+../../flask_package/dist/sqlalchemycollector-1.3.13.tar.gz

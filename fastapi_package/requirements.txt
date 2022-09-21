@@ -1,0 +1,4 @@
+-r requirements-common.txt
+fastapi
+opentelemetry-instrumentation-asgi>=0.30b1
+opentelemetry-instrumentation-fastapi>=0.30b1

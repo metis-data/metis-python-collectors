@@ -1,0 +1,4 @@
+-r requirements-common.txt
+flask
+opentelemetry-instrumentation-wsgi>=0.30b1
+opentelemetry-instrumentation-flask>=0.30b1
